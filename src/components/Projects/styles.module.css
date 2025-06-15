@@ -1,0 +1,20 @@
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* border-bottom: 1px solid #d3d3d3; */
+    gap: 5.0rem;
+    padding: 5rem;
+    width: 100%;
+}
+
+.box {
+    border: 1px solid #d3d3d3;
+    font-size: 2.5rem;
+    max-width: 60rem;
+    text-align: center;
+    border-radius: 1.1rem;
+    padding: 0 2rem;
+    height: 17rem;
+}
